@@ -1,0 +1,6 @@
+com\mycompany\sistemmanajemendatamenurestoran\model\MenuMinuman.class
+com\mycompany\sistemmanajemendatamenurestoran\model\MenuMakanan.class
+com\mycompany\sistemmanajemendatamenurestoran\SistemManajemenDataMenuRestoran.class
+com\mycompany\sistemmanajemendatamenurestoran\model\Kategori.class
+com\mycompany\sistemmanajemendatamenurestoran\model\Menu.class
+com\mycompany\sistemmanajemendatamenurestoran\model\Restoran.class
